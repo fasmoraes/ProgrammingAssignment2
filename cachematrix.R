@@ -18,11 +18,6 @@
 ##
 ##   ## Again, calculate its inverse (should get from cache)
 ##   cacheSolve(cMatrix)
-  
-## Coding Style
-## ============
-## Using Google R's Style Guide except for the template function names:
-##    https://google-styleguide.googlecode.com/svn/trunk/Rguide.xml
 
 
 makeCacheMatrix <- function(x = matrix()) {
